@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shantanu\\Downloads\\flutter_speech_to_text-master\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shantanu\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\a9463bd1d128acd29020898ff3640322\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
